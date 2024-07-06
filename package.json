@@ -1,0 +1,16 @@
+{
+  "name": "code-smell",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Shvetsov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmshvetsov/code-smell-js"
+  },
+  "license": "ISC"
+}

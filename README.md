@@ -1,10 +1,10 @@
-# code-smell
+# smellsbad
 
 Reserved package name for the future project
 
 ## hint
 
-Use this package to identify bad patterns in the JavaScript and TypeScript code.
+Use this package to identify bad patterns (code smells) in the JavaScript and TypeScript code.
 
 ## npm
 

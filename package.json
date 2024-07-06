@@ -1,5 +1,5 @@
 {
-  "name": "code-smell",
+  "name": "smellsbad",
   "version": "0.0.0",
   "description": "TBD",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "Dmitry Shvetsov",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmshvetsov/code-smell-js"
+    "url": "https://github.com/dmshvetsov/smellsbad-js"
   },
   "license": "ISC"
 }
